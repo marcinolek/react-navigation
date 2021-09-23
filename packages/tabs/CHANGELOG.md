@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.11.3](https://github.com/react-navigation/tabs/compare/react-navigation-tabs@2.11.2...react-navigation-tabs@2.11.3) (2021-09-23)
+
+
+### Bug Fixes
+
+* **tabs:** replace depraceted removeListener method with Emmiter remove, BottomBar ([ecd17a8](https://github.com/react-navigation/tabs/commit/ecd17a8f603fb6f1cd6a0f9820f3f469bf46dc99))
+
+
+
+
+
 ## [2.11.2](https://github.com/react-navigation/tabs/compare/react-navigation-tabs@2.11.1...react-navigation-tabs@2.11.2) (2021-09-23)
 
 
